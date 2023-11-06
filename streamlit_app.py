@@ -1,6 +1,6 @@
 
 import streamlit as st
-from agents.summarize_agent import execute as summarize_execute
+from agents.summarize import execute as summarize_execute
 from agents.scrape_linkedin_agent import execute as scrape_linkedin_execute
 from agents.research_agent import execute as research_execute
 from agents.create_outreach_msg_agent import execute as create_outreach_msg_execute
