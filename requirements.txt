@@ -1,0 +1,5 @@
+
+streamlit
+python-dotenv
+openai
+# Ajoutez ici les autres dépendances nécessaires pour votre application
